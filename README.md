@@ -84,3 +84,12 @@ The main reason for thi format is because Lambda function gets input from Amazon
 1. Navigate to the Intent page of previously created Chatbot, before usin git specify the Lambda function ti be used by Lex.
 2. Click on settings option and choose 'Source of Lambda function' as previous created function.
 3. Test the chatbot. I have attached the screen shots from my chatbot.
+
+## Key Highlights
+* Integration of AWS Services: Amazon Lex, AWS Lambda and AWS IAM to create a cohesive solution.
+* Chatbot Development: Gained knowledge of building a conversational interface with AWS services.
++ Learned how to configure intents, slots and utterences for specific use cases.
++ Implemented fulfillment logic using AWS Lambda to provide dynamic responses.
+* Serverless Computing: Used AWS Lambda to run backend logic without managing servers by showcasing benefits of serverless architecture for scalability and cost efficiency.
+* Secure Access Management: Implemented IAM policies for granting precise access to AWS services by ensuring security.
+* Langauge Translation: Explored real time langauge translation and demonstrated how user can drive langauge specific processing and response. 
