@@ -3,6 +3,10 @@
 ## Description
 This project gives hands-on knowledge on using different AWS services to build a langauge translation chatbot. The chatbot will give the output translation.
 
+## Architecture
+
+![aws translate](https://github.com/user-attachments/assets/91cffc46-7820-404a-86c5-8ada6471e953)
+
 ## Services used
 * Amazon Lex: Is used to build chatbot and define conversation flow.
 * AWS Lambda: Used to get recommendations using third party API.
