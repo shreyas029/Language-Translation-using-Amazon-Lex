@@ -5,7 +5,8 @@ This project gives hands-on knowledge on using different AWS services to build a
 
 ## Architecture
 
-![aws translate](https://github.com/user-attachments/assets/91cffc46-7820-404a-86c5-8ada6471e953)
+![aws translate](https://github.com/user-attachments/assets/432983cd-cfe7-4343-bc5f-04390aef07ed)
+
 
 ## Services used
 * Amazon Lex: Is used to build chatbot and define conversation flow.
