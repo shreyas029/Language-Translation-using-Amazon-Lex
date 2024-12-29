@@ -2,9 +2,7 @@
 
 ## Description
 This project gives hands-on knowledge on using different AWS services to build a langauge translation chatbot. The chatbot will give the output translation.
-
 ## Architecture
-
 ![aws translate](https://github.com/user-attachments/assets/432983cd-cfe7-4343-bc5f-04390aef07ed)
 
 
